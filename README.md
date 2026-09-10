@@ -27,7 +27,7 @@ No subscription.
 No unnecessary restrictions. 
 Just live wallpapers for your Mac.
 No annoying watermarks.
-No bloatware, just a GUI with live wallpapers that you can use.
+No bloatware, just a GUI with live wallpapers that you can use for free.
 
 ## Contributing
 
