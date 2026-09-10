@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="electronlogo.png" alt="Electron" width="200">
+</p>
+
 # Electron
 
 **A free and open-source alternative to Backdrop for macOS.**
