@@ -25,9 +25,14 @@ Apps like Backdrop make live wallpapers easy, but some features are locked behin
 
 No subscription.  
 No unnecessary restrictions. 
-Just live wallpapers for your Mac.
-No annoying watermarks.
-No bloatware, just a GUI with live wallpapers that you can use for free.
+
+## Screenshots
+
+<p align="center">
+  <img src="Screenshot%202026-09-10%20at%2018.58.13.png" width="32%">
+  <img src="Screenshot%202026-09-10%20at%2018.58.34.png" width="32%">
+  <img src="Screenshot%202026-09-10%20at%2018.58.54.png" width="32%">
+</p>
 
 ## Contributing
 
