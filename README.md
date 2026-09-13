@@ -2,11 +2,11 @@
   <img src="electronlogo.png" alt="Electron" width="200">
 </p>
 
-# Electron
+# ElectronWallpaper
 
 **A free and open-source alternative to Backdrop for macOS.**
 
-Electron lets you use **live wallpapers on your Mac**, bringing your desktop to life with animated backgrounds while keeping the experience simple and most importantly, free for everyone.
+ElectronWallpaper lets you use **live wallpapers on your Mac**, bringing your desktop to life with animated backgrounds while keeping the experience simple and most importantly, free for everyone.
 
 ##  Features
 
@@ -17,7 +17,7 @@ Electron lets you use **live wallpapers on your Mac**, bringing your desktop to 
 -  **Lightweight** — Built to run quietly in the background without getting in your way.
 -  **Customizable** — Choose your own wallpapers and make your desktop yours.
 
-## Why Electron?
+## Why ElectronWallpaper?
 
 Apps like Backdrop make live wallpapers easy, but some features are locked behind payment, and let's be honest here nobody wants to pay just to have proper wallpapers, right?
 
