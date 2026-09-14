@@ -1,7 +1,8 @@
-** PLACEHOLDER **
-** PLACEHOLDER **
-** PLACEHOLDER **
-** PLACEHOLDER **
+<p align="left">
+  <img src="screenshots/luna-icon.png" width="120">
+</p>
+
+# Luna
 
 # Luna
 
