@@ -4,8 +4,6 @@
 
 # Luna
 
-# Luna
-
 **A free and open-source alternative to Backdrop for macOS.**
 
 Luna lets you use **live wallpapers on your Mac**, bringing your desktop to life with animated backgrounds while keeping the experience simple and most importantly, free for everyone.
